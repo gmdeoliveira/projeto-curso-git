@@ -1,3 +1,5 @@
 # Curso básico de git
 
-Este repositório é parte do bootcamp Desenvolvedor Fullstack Python, mas especificamente o minicurso que ensina comandos básicos em Git.
+Este repositório é de um minicurso que ensina comandos básicos em Git. 
+
+Faz parte do bootcamp Desenvolvedor Fullstack Python, do portal Digital Innovation One.
